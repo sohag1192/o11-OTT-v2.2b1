@@ -24,6 +24,8 @@
 
 ### 🚀 Installation Instructions
 ```bash
+
+apt install git
 git clone https://github.com/DRMStuff/o11-OTT-v2.2b1
 chmod +x o11_v22b1-DRMStuff
 ./o11
